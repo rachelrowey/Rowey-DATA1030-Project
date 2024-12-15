@@ -1,0 +1,2 @@
+Random State,Best Parameters,Best CV Score,Best Test Accuracy,Best Test F-Score,Mean Test Score,Std Test Score,Mean F-Score,Std F-Score,Test Predictions
+5678,"{'classifier__C': 1, 'classifier__penalty': 'l1', 'classifier__solver': 'saga'}",0.7903225806451614,0.825,0.5333333333333333,0.805,0.029154759474226483,0.5869931513275166,0.04250108884499981,"[0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0]"
